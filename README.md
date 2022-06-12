@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samfigueroa92
 - 👀 I’m interested in video games and roller skating
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript, HTML, CSS and React
 - 📫 How to reach me samanthafigueroa@pursuit.org
 
 <!---
